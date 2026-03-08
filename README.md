@@ -1,4 +1,4 @@
-## Hi there 👋
+## nomdn
 
 <!--
 **nomdn/nomdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+我是**nomdn**,真正的柠檬  
+[**wsmdn**](https://github.com/wsmdn)那个账号因为2fa和恢复密钥全丢了，导致我无法登录  
+会写Python ~~但是没有用Python做过任何ai或者数学计算~~  
+还会一点点JavaScript和Vue3，但是不会TypeScript  
+我的个人博客  
+https://blog.wsmdn.dpdns.org
+请关注这个网站，因为我会在这里发布服务运行状态和变更说明  
