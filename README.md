@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 ### 我的个人博客  
 https://blog.wsmdn.dpdns.org  
   
-请收藏这个网站，因为我会在这里发布服务运行状态和变动说明  
+请收藏这个网站，因为我会在这里发布服务变动说明  
