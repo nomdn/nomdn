@@ -22,9 +22,12 @@ Here are some ideas to get you started:
 我是**nomdn**,真正的柠檬  
 ---
 [**wsmdn**](https://github.com/wsmdn)那个账号因为2fa和恢复密钥全丢了，导致我无法登录  
+  
 会写Python ~~但是没有用Python做过任何ai或者数学计算~~  
-还会一点点JavaScript和Vue3，但是不会**TypeScript**  
----
+  
+还会一点点JavaScript和Vue3，但是不会**TypeScript** 
+  
+
 ### 我的个人博客  
 https://blog.wsmdn.dpdns.org  
   
