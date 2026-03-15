@@ -19,14 +19,19 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/Node.js-22.18+-brightgreen)
 ![Vue](https://img.shields.io/badge/Vue-3.5.25-4FC08D?logo=vue.js)
 
-我是**nomdn**,真正的柠檬  
+我是**nomdn** 
 ---
 [**wsmdn**](https://github.com/wsmdn)那个账号因为2fa和恢复密钥全丢了，导致我无法登录  
   
 会写Python ~~但是没有用Python做过任何ai或者数学计算~~  
   
 还会一点点JavaScript和Vue3，但是不会**TypeScript** 
-  
+<picture>
+<!-- 根据主题颜色来决定用亮的还是黑的 -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/nomdn/nomdn@output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/nomdn/nomdn@output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://cdn.jsdelivr.net/gh/nomdn/nomdn@output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### 我的个人博客  
 https://blog.wsmdn.dpdns.org  
