@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Python](https://img.shields.io/badge/Python-3.8%2B-green)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.128+-red)
-![Node.js](https://img.shields.io/badge/Node.js-22.18+-brightgreen)
-![Vue](https://img.shields.io/badge/Vue-3.5.25-4FC08D?logo=vue.js)
+**Languages Known:**
+
+<code><img width="25" alt="javascript" src="https://api.iconify.design/material-icon-theme/javascript.svg"></code>
+<code><img width="25" alt="nodejs" src="https://api.iconify.design/material-icon-theme/nodejs.svg"></code>
+<code><img width="25" alt="vue" src="https://api.iconify.design/material-icon-theme/vue.svg"></code>
+<code><img width="25" alt="Vite" src="https://api.iconify.design/material-icon-theme/vite.svg" title="Vite"/></code>
+<code><img width="25" alt="element-plus" src="https://api.iconify.design/ep/element-plus.svg?color=%23409eff"></code>
+<code><img width="25" alt="git" src="https://api.iconify.design/material-icon-theme/git.svg"></code>
+<code><img width="25" alt="vscode" src="https://api.iconify.design/material-icon-theme/vscode.svg"></code>
+<code><img width="25" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/fastapi/fastapi-original.svg"></code>
 
 我是**nomdn** 
 ---
