@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </picture>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nomdn&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=nomdn&show_icons=true&include_all_commits=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=nomdn&card_width=350)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nomdn&card_width=360)](https://git.io/streak-stats)
 
 
 ### Blog
