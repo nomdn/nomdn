@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </picture>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nomdn&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=nomdn&show_icons=true&include_all_commits=true)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nomdn&langs_count=3)](https://github-stats-extended.vercel.app/api/top-langs?username=nomdn&langs_count=3)
+
 
 ### Blog
 https://blog.wsmdn.top  
